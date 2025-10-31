@@ -1,5 +1,7 @@
-# Vue 3 + TypeScript + Vite
+# 🌕 Vue Static Page - Chuseok Theme
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+🟢 **배포 링크:** [https://tranhoang01.github.io/vue-static-page/](https://tranhoang01.github.io/vue-static-page/)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+---
+
+이 프로젝트는 Vue + TypeScript + Vite를 사용하여 제작한 추석 테마 웹페이지입니다.
